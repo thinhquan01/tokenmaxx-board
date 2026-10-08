@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T03:03:16.153Z",
+  "updatedAt": "2026-10-08T01:14:41.366Z",
   "profiles": [
     {
       "id": "michael-wall",
@@ -31,6 +31,21 @@
       "currentStreak": 136,
       "longestStreak": 136,
       "activitySeed": 2215
+    },
+    {
+      "id": "thinh-quan",
+      "name": "Thinh Quan",
+      "handle": "@bluebowls3629",
+      "location": "",
+      "country": "Australia",
+      "countryCode": "AU",
+      "flag": "🇦🇺",
+      "lifetimeTokens": 38100000000,
+      "peakTokens": 3400000000,
+      "longestTaskMinutes": 1081,
+      "currentStreak": 14,
+      "longestStreak": 21,
+      "activitySeed": 1021
     },
     {
       "id": "adrianmelic",
